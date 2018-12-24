@@ -2,7 +2,7 @@
 
 One Paragraph of project description goes here
 
-## Getting Started
+## Github Upload Steps
 
 ```
 git init
